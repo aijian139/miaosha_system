@@ -1,0 +1,12 @@
+com\yj\service\OrderServiceImpl.class
+com\yj\entity\User.class
+com\yj\MiaoShaSystemMain.class
+com\yj\service\OrderService.class
+com\yj\service\UserService.class
+com\yj\dao\StockDao.class
+com\yj\entity\Order.class
+com\yj\entity\Stock.class
+com\yj\dao\OrderDao.class
+com\yj\controller\StockController.class
+com\yj\service\UserServiceImpl.class
+com\yj\dao\UserDao.class

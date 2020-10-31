@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yj.MiaoshaSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.909 s - in com.yj.MiaoshaSystemApplicationTests

@@ -1,0 +1,8 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yj.dao.OrderDao">
+    <insert id="createOrder" parameterType="Order" useGeneratedKeys="true" keyProperty="id">
+        insert into stock_order values (#{id},#{sid},#{name},#{create_time})
+    </insert>
+</mapper>
